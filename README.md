@@ -1,3 +1,10 @@
+PHP
+=============
+
+自行撰寫的 PHP 函式庫
+1. print_r_fix
+   修正 print_r 無法正常顯示布林值的問題
+
 jQuery-Plugin
 =============
 
